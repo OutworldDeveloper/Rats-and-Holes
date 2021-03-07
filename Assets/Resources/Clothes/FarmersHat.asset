@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69522777de3d42c4da3e5c182452e420, type: 3}
+  m_Name: FarmersHat
+  m_EditorClassIdentifier: 
+  displayName: Farmer's hat
+  femaleSprites:
+    menuFront:
+      baseSprite: {fileID: 8091347220383495594, guid: a73720b97aac0204d819fbaf82f541df,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    menuBack:
+      baseSprite: {fileID: 6437620479410650457, guid: a73720b97aac0204d819fbaf82f541df,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseFront:
+      baseSprite: {fileID: 8091347220383495594, guid: a73720b97aac0204d819fbaf82f541df,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseBack:
+      baseSprite: {fileID: 6437620479410650457, guid: a73720b97aac0204d819fbaf82f541df,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandFront:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+  maleSprites:
+    menuFront:
+      baseSprite: {fileID: 6974310146825048851, guid: a73720b97aac0204d819fbaf82f541df,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    menuBack:
+      baseSprite: {fileID: -5877472517326216083, guid: a73720b97aac0204d819fbaf82f541df,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseFront:
+      baseSprite: {fileID: 6974310146825048851, guid: a73720b97aac0204d819fbaf82f541df,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseBack:
+      baseSprite: {fileID: -5877472517326216083, guid: a73720b97aac0204d819fbaf82f541df,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandFront:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+  slot: {fileID: 11400000, guid: 00e80da7464aea54f964e875dbdd418e, type: 2}
+  isUnlockedByDefault: 0

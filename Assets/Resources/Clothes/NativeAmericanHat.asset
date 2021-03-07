@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69522777de3d42c4da3e5c182452e420, type: 3}
+  m_Name: NativeAmericanHat
+  m_EditorClassIdentifier: 
+  displayName: Headband
+  femaleSprites:
+    menuFront:
+      baseSprite: {fileID: 5509287086830181022, guid: 62bafc96025b301478c7594354cab1c6,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    menuBack:
+      baseSprite: {fileID: 4315923415150145771, guid: 62bafc96025b301478c7594354cab1c6,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseFront:
+      baseSprite: {fileID: 5509287086830181022, guid: 62bafc96025b301478c7594354cab1c6,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseBack:
+      baseSprite: {fileID: 4315923415150145771, guid: 62bafc96025b301478c7594354cab1c6,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandFront:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+  maleSprites:
+    menuFront:
+      baseSprite: {fileID: -3771704640116889906, guid: 62bafc96025b301478c7594354cab1c6,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    menuBack:
+      baseSprite: {fileID: 42110497734955081, guid: 62bafc96025b301478c7594354cab1c6,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseFront:
+      baseSprite: {fileID: -3771704640116889906, guid: 62bafc96025b301478c7594354cab1c6,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseBack:
+      baseSprite: {fileID: 42110497734955081, guid: 62bafc96025b301478c7594354cab1c6,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandFront:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+  slot: {fileID: 11400000, guid: 00e80da7464aea54f964e875dbdd418e, type: 2}
+  isUnlockedByDefault: 0

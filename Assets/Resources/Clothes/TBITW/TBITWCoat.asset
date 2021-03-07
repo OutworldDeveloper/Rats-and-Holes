@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69522777de3d42c4da3e5c182452e420, type: 3}
+  m_Name: TBITWCoat
+  m_EditorClassIdentifier: 
+  displayName: Lether coat
+  femaleSprites:
+    menuFront:
+      baseSprite: {fileID: 6053210159607088234, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: -9028523746631775995, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+    menuBack:
+      baseSprite: {fileID: -8993670358034377697, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: -9028523746631775995, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+    ingameBaseFront:
+      baseSprite: {fileID: 4744029308096001243, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: -9028523746631775995, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+    ingameBaseBack:
+      baseSprite: {fileID: 7008713114700530493, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: -9028523746631775995, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+    ingameHandFront:
+      baseSprite: {fileID: 8848262486902752655, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 4687122600912479967, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+  maleSprites:
+    menuFront:
+      baseSprite: {fileID: 2161937943274325535, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: 4327769673510148790, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+    menuBack:
+      baseSprite: {fileID: 4643782229690680944, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: 4327769673510148790, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+    ingameBaseFront:
+      baseSprite: {fileID: 6547322807599806891, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: 4327769673510148790, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+    ingameBaseBack:
+      baseSprite: {fileID: -7156848410900939308, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: 4327769673510148790, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+    ingameHandFront:
+      baseSprite: {fileID: -2137767619017171858, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 9179080305236600138, guid: d27540cd736f2584583a2320b66e5911,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+  hideHair: 0
+  slot: {fileID: 11400000, guid: e3543d308292d2b48ac8fb97fd44744d, type: 2}
+  isUnlockedByDefault: 0

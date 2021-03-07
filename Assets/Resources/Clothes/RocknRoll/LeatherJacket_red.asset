@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69522777de3d42c4da3e5c182452e420, type: 3}
+  m_Name: LeatherJacket_red
+  m_EditorClassIdentifier: 
+  isUnlockedByDefault: 0
+  displayName: Jacket
+  femaleSprites:
+    menuFront:
+      baseSprite: {fileID: 7626121000438689802, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    menuBack:
+      baseSprite: {fileID: -3018351577628113487, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseFront:
+      baseSprite: {fileID: 869955327211833455, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseBack:
+      baseSprite: {fileID: 153727081601254667, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandFront:
+      baseSprite: {fileID: 6797418684251655262, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 7690202288289159070, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+  maleSprites:
+    menuFront:
+      baseSprite: {fileID: 7591425427177116202, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    menuBack:
+      baseSprite: {fileID: -1626608000108053621, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseFront:
+      baseSprite: {fileID: -6303343998342124719, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseBack:
+      baseSprite: {fileID: -1726696457893907611, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandFront:
+      baseSprite: {fileID: -3029378057524232866, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 3073870999149480889, guid: 6ce0050ed64282f4a8d6a918f5b31147,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+  hideHair: 0
+  slot: {fileID: 11400000, guid: e3543d308292d2b48ac8fb97fd44744d, type: 2}

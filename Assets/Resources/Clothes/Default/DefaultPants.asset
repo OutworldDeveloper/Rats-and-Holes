@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69522777de3d42c4da3e5c182452e420, type: 3}
+  m_Name: DefaultPants
+  m_EditorClassIdentifier: 
+  displayName: Cowboy's pants
+  femaleSprites:
+    menuFront:
+      baseSprite: {fileID: 5598251669064962708, guid: 7d66e5df67e71084384172a888e67c73,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    menuBack:
+      baseSprite: {fileID: -48245787342793556, guid: 7d66e5df67e71084384172a888e67c73,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseFront:
+      baseSprite: {fileID: -5111103394237749272, guid: 7d66e5df67e71084384172a888e67c73,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseBack:
+      baseSprite: {fileID: -101538053781813859, guid: 7d66e5df67e71084384172a888e67c73,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandFront:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+  maleSprites:
+    menuFront:
+      baseSprite: {fileID: 1283630639599453545, guid: 7d66e5df67e71084384172a888e67c73,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    menuBack:
+      baseSprite: {fileID: -6747608536850175982, guid: 7d66e5df67e71084384172a888e67c73,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseFront:
+      baseSprite: {fileID: -237447323619085754, guid: 7d66e5df67e71084384172a888e67c73,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameBaseBack:
+      baseSprite: {fileID: -936404819671194572, guid: 7d66e5df67e71084384172a888e67c73,
+        type: 3}
+      backgroundSprite: {fileID: 0}
+    ingameHandFront:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+    ingameHandBack:
+      baseSprite: {fileID: 0}
+      backgroundSprite: {fileID: 0}
+  hideHair: 0
+  slot: {fileID: 11400000, guid: c5e171b331ab8994e88bc22423e1f58c, type: 2}
+  isUnlockedByDefault: 1

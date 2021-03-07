@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 681d9ee1cfa87de45979a6fa42482fb9, type: 3}
+  m_Name: Walter
+  m_EditorClassIdentifier: 
+  isUnlockedByDefault: 1
+  charactersName: Walter
+  bodySpriteFront: {fileID: -8510834146806532130, guid: 2e2734b26d8958b49865282800cce41e,
+    type: 3}
+  bodySpriteBack: {fileID: 8712569712141429267, guid: 2e2734b26d8958b49865282800cce41e,
+    type: 3}
+  hairSpriteFront: {fileID: 1274450100128596673, guid: c8e5852a87173794c8806e07dacfc7e2,
+    type: 3}
+  hairSpriteBack: {fileID: 7989521682867337683, guid: c8e5852a87173794c8806e07dacfc7e2,
+    type: 3}
+  handSpriteFront: {fileID: 7327849050061863412, guid: 2e2734b26d8958b49865282800cce41e,
+    type: 3}
+  handSpriteBack: {fileID: -3385107042889640167, guid: 2e2734b26d8958b49865282800cce41e,
+    type: 3}
+  handOffsetX: 0.25
+  handOffsetY: 0.521
+  gunPosition: {x: 1.28, y: 0.5925}
+  clothingType: 1
+  isDefault: 1

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 6287a097efafe0141a5df0ecbdc6e1dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1788803074429370461
+    second: mc_shirt_0
+  - first:
+      213: 202466357243421816
+    second: mc_shirt_1
+  - first:
+      213: 2805140318193244964
+    second: mc_shirt_2
+  - first:
+      213: 4187753270107175962
+    second: mc_shirt_3
+  - first:
+      213: -4362175551939991229
+    second: mc_shirt_4
+  - first:
+      213: -7485556749671947513
+    second: mc_shirt_5
+  - first:
+      213: 2866384858708370917
+    second: mc_shirt_6
+  - first:
+      213: -5635686899524259675
+    second: mc_shirt_7
+  - first:
+      213: -4546424480849772914
+    second: mc_shirt_8
+  - first:
+      213: 9102246838554669078
+    second: mc_shirt_9
+  - first:
+      213: -1132097028686259124
+    second: mc_shirt_10
+  - first:
+      213: 8610657984695579885
+    second: mc_shirt_11
+  - first:
+      213: -3781479628042499663
+    second: mc_shirt_12
+  - first:
+      213: 3134068140738019547
+    second: mc_shirt_13
+  - first:
+      213: 3991644034119110817
+    second: mc_shirt_14
+  - first:
+      213: 1204268945104526160
+    second: mc_shirt_15
+  - first:
+      213: -3534071997873883962
+    second: mc_shirt_16
+  - first:
+      213: -5653084052398402485
+    second: mc_shirt_17
+  - first:
+      213: 5860586231853644048
+    second: mc_shirt_0
+  - first:
+      213: 8614342131764614099
+    second: mc_shirt_1
+  - first:
+      213: 4286778345830720472
+    second: mc_shirt_2
+  - first:
+      213: -9218499448197579175
+    second: mc_shirt_3
+  - first:
+      213: -8280276285482103433
+    second: mc_shirt_4
+  - first:
+      213: 4297002226308556107
+    second: mc_shirt_5
+  - first:
+      213: -4843174416701029481
+    second: mc_shirt_6
+  - first:
+      213: -3102512661279785317
+    second: mc_shirt_7
+  - first:
+      213: 8440726631115666577
+    second: mc_shirt_8
+  - first:
+      213: -850012679509924413
+    second: mc_shirt_9
+  - first:
+      213: -5977945562294502164
+    second: mc_shirt_10
+  - first:
+      213: 4096668146169419832
+    second: mc_shirt_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc_shirt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197e2d802cf45150800000000000000
+      internalID: 5860586231853644048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 189
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d281378a4c8770800000000000000
+      internalID: 8614342131764614099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 189
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a3167132bd7b30800000000000000
+      internalID: 4286778345830720472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 189
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7c04f79f411080800000000000000
+      internalID: -9218499448197579175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 189
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8fb1d69c861d80800000000000000
+      internalID: -8280276285482103433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 189
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452f2222c402ab30800000000000000
+      internalID: 4297002226308556107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793864b378699ccb0800000000000000
+      internalID: -4843174416701029481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e34412c29a1f4d0800000000000000
+      internalID: -3102512661279785317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19434dd662c732570800000000000000
+      internalID: 8440726631115666577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5ab37b8f52434f0800000000000000
+      internalID: -850012679509924413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec30d00f221a0da0800000000000000
+      internalID: -5977945562294502164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_shirt_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838161f49f94ad830800000000000000
+      internalID: 4096668146169419832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

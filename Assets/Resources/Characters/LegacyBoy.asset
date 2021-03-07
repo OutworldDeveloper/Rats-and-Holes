@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 681d9ee1cfa87de45979a6fa42482fb9, type: 3}
+  m_Name: LegacyBoy
+  m_EditorClassIdentifier: 
+  isUnlockedByDefault: 0
+  charactersName: Legacy Boy
+  bodySpriteFront: {fileID: 21300000, guid: 8802288aaac21aa42b9678548a6ce2dc, type: 3}
+  bodySpriteBack: {fileID: 21300000, guid: a1f46e60358813044b178d04d05ace1a, type: 3}
+  hairSpriteFront: {fileID: 0}
+  hairSpriteBack: {fileID: 0}
+  handSpriteFront: {fileID: 21300000, guid: 64cb955d9a483f54389059dbd6a5565e, type: 3}
+  handSpriteBack: {fileID: 21300000, guid: 6cfa1eca21415bb43b256fc69befb2c5, type: 3}
+  handOffsetX: 0.05
+  handOffsetY: -0.23
+  gunPosition: {x: 0.76, y: -0.232}
+  clothingType: 2
+  isDefault: 0

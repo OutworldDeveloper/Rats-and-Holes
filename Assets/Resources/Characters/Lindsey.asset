@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 681d9ee1cfa87de45979a6fa42482fb9, type: 3}
+  m_Name: Lindsey
+  m_EditorClassIdentifier: 
+  isUnlockedByDefault: 1
+  charactersName: Lindsey
+  bodySpriteFront: {fileID: 3529734674092636317, guid: b55cef96f74f278458654e9537f08de8,
+    type: 3}
+  bodySpriteBack: {fileID: 4315747197948032468, guid: b55cef96f74f278458654e9537f08de8,
+    type: 3}
+  hairSpriteFront: {fileID: -863733189058361697, guid: c8e5852a87173794c8806e07dacfc7e2,
+    type: 3}
+  hairSpriteBack: {fileID: -4372976257642491814, guid: c8e5852a87173794c8806e07dacfc7e2,
+    type: 3}
+  handSpriteFront: {fileID: -7149898877504755206, guid: b55cef96f74f278458654e9537f08de8,
+    type: 3}
+  handSpriteBack: {fileID: -320561949810356555, guid: b55cef96f74f278458654e9537f08de8,
+    type: 3}
+  handOffsetX: 0.162
+  handOffsetY: 0.521
+  gunPosition: {x: 1.095, y: 0.53}
+  clothingType: 0
+  isDefault: 0

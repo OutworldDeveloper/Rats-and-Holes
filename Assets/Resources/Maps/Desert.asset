@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1d8901823a84ff49997bc7e101fbd40, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: 
+  isUnlockedByDefault: 0
+  holesSprites:
+  - {fileID: -1447134441780451254, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  - {fileID: -520784826194271439, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  - {fileID: -1902910084007144615, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  - {fileID: -8100021188646512474, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  - {fileID: -2094192415077061054, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  - {fileID: -8100021188646512474, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  - {fileID: -1902910084007144615, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  - {fileID: -520784826194271439, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  - {fileID: -1447134441780451254, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  mapPrefab: {fileID: 2500624129236986158, guid: 3cb8b8e7baf077b45bfef37446ea734a,
+    type: 3}
+  preview: {fileID: 2391877927792943127, guid: c65c0f89e5fecf24ea328097c53e7b77, type: 3}
+  isDefault: 0

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VioletRatControllerOverride
+  m_Controller: {fileID: 9100000, guid: ba72d093cc419a940929753f590bed6f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 12f4de593e9a34a44bfab031dc648434, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fe9f169bb1e4ad148bd2a59cfd561105, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2b72e2dbbd8533048b74347e82c9bfc7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 57262a70e18f29c4e9a2230fadb73a60, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d186e384a94e99e40894ca228fd3bf97, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d186e384a94e99e40894ca228fd3bf97, type: 2}

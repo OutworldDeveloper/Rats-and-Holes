@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 681d9ee1cfa87de45979a6fa42482fb9, type: 3}
+  m_Name: Jake
+  m_EditorClassIdentifier: 
+  isUnlockedByDefault: 1
+  charactersName: Jake
+  bodySpriteFront: {fileID: -5839368595201390898, guid: b55cef96f74f278458654e9537f08de8,
+    type: 3}
+  bodySpriteBack: {fileID: 8935043484881858130, guid: b55cef96f74f278458654e9537f08de8,
+    type: 3}
+  hairSpriteFront: {fileID: 1274450100128596673, guid: c8e5852a87173794c8806e07dacfc7e2,
+    type: 3}
+  hairSpriteBack: {fileID: 7989521682867337683, guid: c8e5852a87173794c8806e07dacfc7e2,
+    type: 3}
+  handSpriteFront: {fileID: 708346404933401691, guid: b55cef96f74f278458654e9537f08de8,
+    type: 3}
+  handSpriteBack: {fileID: -4574392704287058742, guid: b55cef96f74f278458654e9537f08de8,
+    type: 3}
+  handOffsetX: 0.25
+  handOffsetY: 0.521
+  gunPosition: {x: 1.28, y: 0.5925}
+  clothingType: 1
+  isDefault: 1

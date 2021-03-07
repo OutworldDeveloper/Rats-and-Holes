@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ComplexSceneTransition
+  m_Controller: {fileID: 9100000, guid: 2ed219da6d662514f8006e0e099e1b10, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b4610e8dd8c13344fb7da02c81fe9879, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dc5e04c1ceba58f45bb0a4ef210fbd5b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bc281d283611f7046aff7b5cc827af38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 93f2f9afe22db90479e0126a94540a42, type: 2}
